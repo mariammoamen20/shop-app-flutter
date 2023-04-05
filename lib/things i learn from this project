@@ -1,0 +1,4 @@
+/*--------------------حاجات اتعلمتها-------------------------------------------------------------*/
+//1- دلوقتي انا عرفت ازاي اشيل البادينج من حوالين textbutton وهو عن طريق textbutton.stylefrom وفيها شويه خصائص حلوه لدوسه الزرار نفسه
+//2- لو عايزه ادي الtextformfiled لون كاباكجروند هعملها عن  طريق filled = true وبعدين filledColor = color
+//3- لو عايزه اتحكم في ال alignment بتاع التيكست اللي ف formfiled هستخدم     textAlignVertical: TextAlignVertical.bottom,
