@@ -8,7 +8,8 @@ A new Flutter project.
 
 |Change Password Screen           |   Home Screen         |  Category Screen   
 ------------------------:|:-------------------------:|:-------------------------:
-![change_password](https://user-images.githubusercontent.com/76426940/230228354-603ae1b0-24a9-4b18-bfb8-6860d15eb741.jpeg)
+![change_password](https://user-images.githubusercontent.com/76426940/230228354-603ae1b0-24a9-4b18-bfb8-6860d15eb741.jpeg)|![home](https://user-images.githubusercontent.com/76426940/236821051-1981fd65-1245-4a53-8968-3e1fd19711d9.jpeg)
+
 
 
 
