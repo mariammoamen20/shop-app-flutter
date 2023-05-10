@@ -14,9 +14,10 @@ A new Flutter project.
 ------------------------:|:-------------------------:|:-------------------------:
 ![category](https://user-images.githubusercontent.com/76426940/236821516-6f1ff4e0-8df1-4db8-842c-620b31cb072e.jpeg)|![category_details](https://user-images.githubusercontent.com/76426940/236821871-d22422fc-472d-4bfd-8c66-0df8c5e340fd.jpeg)|![product_details](https://user-images.githubusercontent.com/76426940/236822357-80d500da-a9af-49b0-a805-f769e139f335.jpeg)
 
-|      Cart Screen        |       
-|------------------------:|
-![cart](https://user-images.githubusercontent.com/76426940/236822992-b0422230-6c55-461f-bde1-2a3958f2eda9.jpeg)
+|  Cart Screen       |   Category  Screen            |      
+------------------------:|:-------------------------:|:-------------------------:
+![cart](https://user-images.githubusercontent.com/76426940/236822992-b0422230-6c55-461f-bde1-2a3958f2eda9.jpeg)|![clothes](https://github.com/mariammoamen20/shop-app-flutter/assets/76426940/9c7dce42-a24b-46a3-963c-87fc50facf93)
+
 
 
 
